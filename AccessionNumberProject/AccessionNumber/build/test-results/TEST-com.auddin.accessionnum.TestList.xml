@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.auddin.accessionnum.TestList" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-07-08T17:10:03" hostname="AUDDIN-IN" time="0.024">
+  <properties/>
+  <testcase name="getOrderedAccessionList1" classname="com.auddin.accessionnum.TestList" time="0.017"/>
+  <testcase name="getOrderedAccessionList2" classname="com.auddin.accessionnum.TestList" time="0.001"/>
+  <testcase name="getOrderedAccessionList3" classname="com.auddin.accessionnum.TestList" time="0.001"/>
+  <testcase name="getOrderedAccessionList4" classname="com.auddin.accessionnum.TestList" time="0.0"/>
+  <testcase name="getOrderedAccessionList5" classname="com.auddin.accessionnum.TestList" time="0.001"/>
+  <testcase name="getOrderedAccessionList6" classname="com.auddin.accessionnum.TestList" time="0.001"/>
+  <testcase name="getOrderedAccessionList7" classname="com.auddin.accessionnum.TestList" time="0.0"/>
+  <testcase name="getOrderedAccessionList8" classname="com.auddin.accessionnum.TestList" time="0.0"/>
+  <testcase name="getOrderedAccessionListNeg" classname="com.auddin.accessionnum.TestList" time="0.0"/>
+  <testcase name="getOrderedAccessionListNull" classname="com.auddin.accessionnum.TestList" time="0.0"/>
+  <system-out><![CDATA[
+AA12AA is not valid accession number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
