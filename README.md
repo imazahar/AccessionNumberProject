@@ -2,7 +2,7 @@
 
 Return ordered list of accession numbers. A list of comma separated accession numbers as input is given.
 
-# Problem Definition
+### Problem Definition
 
 An accession number has the following format: L...LN...N (e.g. AB1234)
 
