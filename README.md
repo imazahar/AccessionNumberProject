@@ -137,11 +137,11 @@ Log4j integration is not done yet to get the most appropriate log functionality.
 
 ## Contributing
 
-This project is yet to be submitted to github. Once it is done, I shall publish ways to contribute.
+Ways to contribute will be published later.
 
 ## Versioning
 
-This project is yet to be submitted to github. Once it is done, I shall publish about versioning.
+GIT will be used for versioning.
 
 ## Authors
 
@@ -149,7 +149,7 @@ This project is yet to be submitted to github. Once it is done, I shall publish 
 
 ## License
 
-This project is not licensed yet, once I will submitt, I will put note about license. Feel free to use it.
+This project is not licensed yet, I will put note about license soon. Feel free to use it.
 
 ## Acknowledgments
 
